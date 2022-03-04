@@ -1,6 +1,6 @@
 # CalendarApp-React-Express-BACKEND
 Application for scheduling tasks displayed on a calendar. 
-React is used for the frontend, Node Express for the backend and Mongo Atlas for the database. The calendar shows the tasks to be performed by a group of people, where each person can make a CRUD of their own tasks. Only other people's tasks are allowed to be displayed. To enter the calendar you must authenticate and receive authorization. 
+React is used for the frontend, Node Express for the backend and Mongo Atlas for the database. Deploy in Heroku. The calendar shows the tasks to be performed by a group of people, where each person can make a CRUD of their own tasks. Only other people's tasks are allowed to be displayed. To enter the calendar you must authenticate and receive authorization. 
 
 ## Link CalendarApp-React-Express-FRONTEND Repository
 https://github.com/IvanFernandezGracia/CalendarApp-React-Express-FRONTEND
@@ -27,102 +27,45 @@ https://user-images.githubusercontent.com/48660555/156672473-8ac5268c-a7ee-456f-
     </tr>
         <td>
         <ul>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
+          <li>express</li>
+          <li>express-validator</li>
+          <li>jsonwebtoken</li>
+          <li>moment</li>
+          <li>dotenv</li>
+          <li>cors</li>
+          <li>bcryptjs</li>
+          <li>router</li>
+          <li>static file</li>
+          <li>Body Parse</li>
+          <li>Custom Middleware</li>
         </ul>
       </td>    
         <td>
         <ul>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
+          <li>Models</li>
+          <li>JWT Validator</li>
+          <li>Env Production</li>
+          <li>jwt sign</li>
+          <li>jwt verify</li>
+          <li>Handle Error</li>
+          <li>CRUD Endpoints</li>
+          <li>Deploy Heroku</li>
+          <li>Status Code HTTP </li>
         </ul>
       </td>
         <td>
         <ul>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-        </ul>
-      </td>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Skills</th>
-      <th align="center">Skills</th>      
-      <th align="center">Skills</th>      
-    </tr>
-        <td>
-        <ul>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-        </ul>
-      </td>    
-        <td>
-        <ul>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-        </ul>
-      </td>
-        <td>
-        <ul>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
-          <li>Schemas</li>
+          <li>Mongo Atlas</li>          
+          <li>Mongo Compass</li>
+          <li>mongoose</li>
+          <li>Schema</li>
+          <li>Schema.method</li>
+          <li>Models Mongo</li>
+          <li>findOne</li>
+          <li>find</li>
+          <li>findById</li>
+          <li>findByIdAndUpdate</li>
+          <li>findByIdAndDelete</li>
         </ul>
       </td>
   </tbody>

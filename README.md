@@ -73,7 +73,60 @@ https://user-images.githubusercontent.com/48660555/156672473-8ac5268c-a7ee-456f-
   </tbody>
 </table>
 
-
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>      
+      <th align="center">Skills</th>      
+    </tr>
+        <td>
+        <ul>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+        </ul>
+      </td>    
+        <td>
+        <ul>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+        </ul>
+      </td>
+        <td>
+        <ul>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+          <li>Schemas</li>
+        </ul>
+      </td>
+  </tbody>
+</table>
 <!-- CONTACT -->
 ## Contact
 Ivan Alejandro Fernandez Gracia  
